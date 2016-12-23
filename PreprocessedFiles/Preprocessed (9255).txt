@@ -1,0 +1,2 @@
+http://www.memphis.edu/cas/script.js
+function toggle obj   var  obj parentnode    classname match         open         classname  classname replace         open             classname    open     document addeventlistener  domcontentloaded  modsummary   function modsummary    var  document queryselectorall   summary     var

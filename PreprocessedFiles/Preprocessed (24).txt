@@ -1,0 +1,2 @@
+http://www.memphis.edu/uofmonline/cogs/validate.js
+function validate      window document email          alert   enter email address contact      window document email  focus    return false    return true

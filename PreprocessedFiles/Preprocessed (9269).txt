@@ -1,0 +1,2 @@
+http://www.memphis.edu/cas/style.css
+summary  cursor pointer    summary   color    content      font weight   font size px  font family  arial   padding  px    open    summary   content      padding  px    details      summary   display     open      display block  important

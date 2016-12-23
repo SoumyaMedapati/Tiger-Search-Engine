@@ -1,0 +1,2 @@
+http://onlegalgrounds.law.memphis.edu/wordpress/wp-content/plugins/mailchimp/css/.css?ver=4.3.1
+mcmessage   padding top em

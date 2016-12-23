@@ -1,0 +1,2 @@
+http://catalogquicksearch.memphis.edu:80/iii/encore/resources/NoJavascriptPage.html
+warning javascript enabled application
